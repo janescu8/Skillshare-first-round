@@ -46,7 +46,7 @@ button{
     display: inline-block;
 }
 .card img{
-    margin: auto;
+    margin: 20%;
 }
 .card a{
     text-decoration: none;
